@@ -1,0 +1,8 @@
+git init
+git add MyFile.txt
+git commit -m 'added MyFile.txt'
+
+git add Info/
+git commit -m 'Added Info Folder with InfoFiles 1 and 2'
+
+git config user.name Spencer_INFO
