@@ -8,3 +8,6 @@ git commit -m 'Added Info Folder with InfoFiles 1 and 2'
 git config user.name Spencer_INFO
 git add Command.txt 
 git commit -m'added Command.txt'
+
+git status
+every file was up to date in source control except for MyFile.txt
