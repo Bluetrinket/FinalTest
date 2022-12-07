@@ -6,3 +6,5 @@ git add Info/
 git commit -m 'Added Info Folder with InfoFiles 1 and 2'
 
 git config user.name Spencer_INFO
+git add Command.txt 
+git commit -m'added Command.txt'
